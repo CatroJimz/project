@@ -1,25 +1,15 @@
-body{
-<<<<<<< HEAD
-<<<<<<< HEAD
-    background: rgb(18, 18, 28);
-    color: aliceblue;
-=======
-=======
->>>>>>> nuevosestilos
-    background: #fff;
-    color: #000
-
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
-h1{
-    font-size: 20px;
-    margin-bottom: 10px;
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-p{
-    color: #ddd
-<<<<<<< HEAD
->>>>>>> nuevosestilos
-=======
->>>>>>> nuevosestilos
+ul{
+    display: flex;
+    align-items: center;
 }
