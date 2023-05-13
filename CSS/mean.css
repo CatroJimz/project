@@ -1,8 +1,11 @@
 body{
 <<<<<<< HEAD
+<<<<<<< HEAD
     background: rgb(18, 18, 28);
     color: aliceblue;
 =======
+=======
+>>>>>>> nuevosestilos
     background: #fff;
     color: #000
 
@@ -15,5 +18,8 @@ h1{
 
 p{
     color: #ddd
+<<<<<<< HEAD
+>>>>>>> nuevosestilos
+=======
 >>>>>>> nuevosestilos
 }
