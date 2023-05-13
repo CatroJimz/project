@@ -8,6 +8,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi debitis ipsam arc
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi debitis ipsam architecto, illum animi, ab voluptas consequatur est excepturi perspiciatis enim voluptates recusandae tempore harum optio mollitia, reprehenderit voluptatibus eum.
 
 - paso 3
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi debitis ipsam architecto, illum animi, ab voluptas consequatur est excepturi perspiciatis enim voluptates recusandae tempore harum optio mollitia, reprehenderit voluptatibus eum.
 
 - paso 4
 
